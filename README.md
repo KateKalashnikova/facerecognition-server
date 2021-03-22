@@ -14,7 +14,7 @@ Frontend files: https://github.com/KateKalashnikova/facerecognitionapp.
 
 ## Technologies💫
 
-✔️HTML/CSS/JavaScript + React.js   
+✔️HTML/CSS/JavaScript(Babel) + React.js   
 ✔️Clarifai: AI/ML model to detect human faces in pictures  
 ✔️Server: Node.js/Express.js  
 ✔️Database: PostgreSQL  
